@@ -84,11 +84,24 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background-color: #9ebac4;
+      background-color: #c0d3d9;
       z-index: 9999;
     
     }
-    
+    .foto1{
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+
+    }
+    .carousel-item img{
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+    }
+   
+
+
     .preloader::after {
       content: '';
       position: absolute;
